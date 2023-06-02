@@ -1,4 +1,4 @@
-# Grupo: #Grupo: Estefany Clara, Gonzalo Paz, Juan Pérez y Lucas Cordero
+#Grupo: Estefany Clara, Gonzalo Paz, Juan Pérez y Lucas Cordero
 
 import pandas as pd
 import numpy as np
