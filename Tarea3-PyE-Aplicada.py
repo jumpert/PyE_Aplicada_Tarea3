@@ -97,10 +97,6 @@ tabla.clear_rows()
 print("\n=====================================================================================================\n")
 
 ## Parte 2
-"""Distribución 2: geométrica de parámetro p = 0,08. Se puede usar el submódulo geom de la liberaría
-scipy.stats para generar una muestra aleatoria simple con esta distribución, por ejemplo
-from scipy.stats import geom
-r = geom.rvs(p,size = 1000)"""
 mensaje = "DISTRIBUCIÓN 2: \n\ngeométrica de parámetro p = 0,08."
 print(mensaje)
 messagebox.showinfo("Mensaje", mensaje)
